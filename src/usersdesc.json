@@ -1,0 +1,36 @@
+
+{
+    "users":[
+        {
+            "name":"Eric Lenser",
+            "email":"eric@company",
+            "description":"employee",
+            "range":"Low"
+        },
+        {
+            "name":"Andrea River",
+            "email":"andrea@company",
+            "description":"employee",
+            "range":"medium"
+        },
+        {
+            "name":"Laura Johnson",
+            "email":"laura@company",
+            "description":"employee",
+            "range":"high"
+        },
+        {
+            "name":"Andrea River",
+            "email":"andrea@company",
+            "description":"employee",
+            "range":"medium"
+        },
+        {
+            "name":"Andrea River",
+            "email":"andrea@company",
+            "description":"employee",
+            "range":"medium"
+        }
+    ]
+
+}
